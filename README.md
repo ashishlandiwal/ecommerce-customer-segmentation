@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Customer%20Segmentation&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=KMeans%20%C2%B7%20DBSCAN%20%C2%B7%20PCA%20%C2%B7%20Silhouette%20%2B%20ARI&descAlignY=72&descSize=16" width="100%"/>
+</div>
+
 # E-Commerce Customer Segmentation — Unsupervised ML
 
 [![CI](https://github.com/ashishlandiwal/ecommerce-customer-segmentation/actions/workflows/ci.yml/badge.svg)](https://github.com/ashishlandiwal/ecommerce-customer-segmentation/actions/workflows/ci.yml)
