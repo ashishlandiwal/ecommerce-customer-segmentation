@@ -1,0 +1,4 @@
+cluster,recency_days,frequency,monetary,avg_order_value,tenure_days,size,segment_name
+0,45.8,4.6,446.8,91.7,269.9,1756,new_customers
+1,167.6,9.1,1511.8,171.3,806.9,690,at_risk
+2,24.6,16.9,2975.1,177.4,821.5,1554,champions

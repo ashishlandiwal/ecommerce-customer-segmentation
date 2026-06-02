@@ -1,0 +1,2 @@
+# Interactive segment explorer.
+streamlit>=1.30
