@@ -4,6 +4,10 @@
 
 # E-Commerce Customer Segmentation — Unsupervised ML
 
+[![Live Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-HF%20Spaces-blue)](https://huggingface.co/spaces/ashishjangra284/ecommerce-customer-segmentation)
+
+**🚀 Try it live:** https://huggingface.co/spaces/ashishjangra284/ecommerce-customer-segmentation
+
 [![CI](https://github.com/ashishlandiwal/ecommerce-customer-segmentation/actions/workflows/ci.yml/badge.svg)](https://github.com/ashishlandiwal/ecommerce-customer-segmentation/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
